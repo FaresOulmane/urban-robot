@@ -4,7 +4,7 @@ public class Cube : MonoBehaviour
 {
   private void Start()
   {
-    Debug.Log(“Hello, I’m a Cube”);
+    Debug.Log("Hey, I’m a Cube”);
     Debug.Log(“Fares est nul à LoL”);
   }
 }
